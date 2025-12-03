@@ -109,7 +109,7 @@ AI-powered dashboard builders like Bolt AI are helping teams create powerful dat
               <div className="text-muted-foreground whitespace-pre-line leading-relaxed">{article.content}</div>
               <div className="mt-6">
                 <a
-                  href="https://bolt.new"
+                  href="https://boltai.dev"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-primary font-medium hover:underline"
