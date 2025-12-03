@@ -5,7 +5,7 @@ export function BlogArticles() {
       slug: "ai-revolutionizing-web-app-development",
       content: `The landscape of web application development is undergoing a massive transformation thanks to artificial intelligence. Traditional development workflows that once took weeks or months can now be completed in minutes with AI-powered tools.
 
-AI web app builders like Bolt new use generative models trained on thousands of development patterns and best practices to create professional-quality applications from simple text descriptions.
+AI web app builders like Bolt AI use generative models trained on thousands of development patterns and best practices to create professional-quality applications from simple text descriptions.
 
 Key benefits of AI-powered web app development include:
 • Rapid prototyping and iteration
@@ -21,7 +21,7 @@ Whether you're a solo developer, startup founder, or enterprise development team
       slug: "guide-ai-web-app-generation",
       content: `Building web applications is one of the most critical steps in the digital product creation process, and AI is making it faster and more accessible than ever before.
 
-AI web app generators like Bolt new allow developers and non-developers alike to create functional applications simply by describing what they need. The AI understands software architecture, user interactions, and best practices to produce applications that are ready for deployment.
+AI web app generators like Bolt AI allow developers and non-developers alike to create functional applications simply by describing what they need. The AI understands software architecture, user interactions, and best practices to produce applications that are ready for deployment.
 
 Best practices for AI web app generation:
 1. Be specific about your target audience and use case
@@ -46,7 +46,7 @@ Key features of AI development workflows:
 • Integration with existing tools
 • Real-time preview and editing
 
-Bolt new's development pipeline ensures that what you conceptualize is exactly what you can deploy. This eliminates miscommunication, reduces revision cycles, and accelerates time-to-market for digital products.
+Bolt AI's development pipeline ensures that what you conceptualize is exactly what you can deploy. This eliminates miscommunication, reduces revision cycles, and accelerates time-to-market for digital products.
 
 Teams using AI-powered development workflows report 60% faster development cycles and significantly improved application consistency.`,
     },
@@ -55,7 +55,7 @@ Teams using AI-powered development workflows report 60% faster development cycle
       slug: "best-ai-web-app-builders-startups",
       content: `For startups and entrepreneurs, professional web application development has traditionally been a significant expense. Hiring development agencies or full-time developers isn't always feasible when you're bootstrapping or running lean.
 
-AI web app builders are democratizing access to professional-quality development. Platforms like Bolt new enable non-developers to create powerful applications that compete with those from top development agencies.
+AI web app builders are democratizing access to professional-quality development. Platforms like Bolt AI enable non-developers to create powerful applications that compete with those from top development agencies.
 
 Why startups are choosing AI web app builders:
 • Cost-effective alternative to development agencies
@@ -64,7 +64,7 @@ Why startups are choosing AI web app builders:
 • Instant prototypes for investor presentations
 • Easy handoff to development teams
 
-Bolt new is particularly popular among startup founders because of its intuitive text-to-application interface. Simply describe your app idea, and the AI generates complete, functional applications that you can customize and export.
+Bolt AI is particularly popular among startup founders because of its intuitive text-to-application interface. Simply describe your app idea, and the AI generates complete, functional applications that you can customize and export.
 
 Whether you're building an MVP, creating pitch deck demos, or launching a full product, AI web app builders provide the speed and flexibility startups need to succeed.`,
     },
@@ -73,13 +73,13 @@ Whether you're building an MVP, creating pitch deck demos, or launching a full p
       slug: "building-dashboards-ai-tutorial",
       content: `Dashboard development requires careful consideration of data visualization, user interactions, and responsive layouts. AI web app builders are making dashboard creation faster and more intuitive than ever.
 
-This step-by-step guide shows how to use Bolt new to create professional dashboard applications:
+This step-by-step guide shows how to use Bolt AI to create professional dashboard applications:
 
 Step 1: Define Your Dashboard Purpose
 Start by clearly describing your dashboard's purpose, target users, and key metrics. The more specific you are, the better the AI can understand your vision.
 
 Step 2: Generate Initial Dashboard
-Use Bolt new's text-to-application feature to generate your main dashboard layout. Specify the types of data visualizations, charts, and metrics you need.
+Use Bolt AI's text-to-application feature to generate your main dashboard layout. Specify the types of data visualizations, charts, and metrics you need.
 
 Step 3: Customize Components
 Refine the layout, adjust data displays to match your requirements, and customize styling for optimal readability and user experience.
@@ -88,9 +88,9 @@ Step 4: Add Interactivity
 Enhance your dashboard with interactive elements that demonstrate data filtering, drill-downs, and user controls.
 
 Step 5: Export and Share
-Export your dashboard to Figma for design collaboration, or as PNG, SVG, or JPG images for presentations. Bolt new generates production-ready assets for smooth deployment.
+Export your dashboard to Figma for design collaboration, or as PNG, SVG, or JPG images for presentations. Bolt AI generates production-ready assets for smooth deployment.
 
-AI-powered dashboard builders like Bolt new are helping teams create powerful data visualizations faster than ever before.`,
+AI-powered dashboard builders like Bolt AI are helping teams create powerful data visualizations faster than ever before.`,
     },
   ]
 
@@ -114,7 +114,7 @@ AI-powered dashboard builders like Bolt new are helping teams create powerful da
                   rel="noopener noreferrer"
                   className="text-primary font-medium hover:underline"
                 >
-                  Try Bolt new Free - Generate Your First Web App in Seconds →
+                  Try Bolt AI Free - Generate Your First Web App in Seconds →
                 </a>
               </div>
             </article>
