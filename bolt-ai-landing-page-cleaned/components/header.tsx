@@ -3,7 +3,7 @@ export function Header() {
     <header className="border-b border-border">
       <nav className="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between" aria-label="Main navigation">
         <a
-          href="https://bolt.new"
+          href="https://boltai.dev"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xl font-bold text-foreground"
@@ -28,7 +28,7 @@ export function Header() {
           </li>
           <li>
             <a
-              href="https://bolt.new"
+              href="https://boltai.dev"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary font-medium hover:underline"
