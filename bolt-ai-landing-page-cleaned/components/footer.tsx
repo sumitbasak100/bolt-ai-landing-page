@@ -36,7 +36,7 @@ export function Footer() {
               Ready to transform your development workflow? Start creating AI-powered web applications today.
             </p>
             <a
-              href="https://bolt.new"
+              href="https://boltai.dev"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block text-sm font-medium text-primary hover:underline"
