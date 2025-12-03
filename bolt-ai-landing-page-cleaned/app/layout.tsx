@@ -7,9 +7,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
-  title: "Bolt new - AI Web App Builder | Generate Web Applications Instantly",
+  title: "Bolt AI - AI Web App Builder | Generate Web Applications Instantly",
   description:
-    "Bolt new is an AI-powered platform for building web applications. Generate complete web apps, dashboards, and interactive tools in seconds. No coding experience required. Export to Figma, PNG, SVG, JPG.",
+    "Bolt AI is an AI-powered platform for building web applications. Generate complete web apps, dashboards, and interactive tools in seconds. No coding experience required. Export to Figma, PNG, SVG, JPG.",
   keywords: [
     "AI web app builder",
     "AI app generator",
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "AI development tool",
     "no-code web app",
     "automated web development",
-    "Bolt new",
+    "Bolt AI",
     "AI app creator",
     "web app generator",
     "dashboard builder",
@@ -27,9 +27,9 @@ export const metadata: Metadata = {
     "instant web apps",
     "no-code platform",
   ],
-  authors: [{ name: "Bolt new" }],
-  creator: "Bolt new",
-  publisher: "Bolt new",
+  authors: [{ name: "Bolt AI" }],
+  creator: "Bolt AI",
+  publisher: "Bolt AI",
   robots: {
     index: true,
     follow: true,
@@ -41,19 +41,19 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://bolt.new",
-    siteName: "Bolt new",
-    title: "Bolt new - AI Web App Builder | Generate Web Applications Instantly",
+    url: "https://boltai.dev",
+    siteName: "Bolt AI",
+    title: "Bolt AI - AI Web App Builder | Generate Web Applications Instantly",
     description:
       "Generate complete web applications, dashboards, and interactive tools instantly with AI. Export to Figma or images. No coding skills needed.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Bolt new - AI Web App Builder",
+    title: "Bolt AI - AI Web App Builder",
     description: "Generate web applications instantly with AI. Export to Figma, PNG, SVG, or JPG.",
   },
   alternates: {
-    canonical: "https://bolt.new",
+    canonical: "https://boltai.dev",
   },
   generator: ''
 }
@@ -80,12 +80,12 @@ export default function RootLayout({
               "@graph": [
                 {
                   "@type": "SoftwareApplication",
-                  name: "Bolt new",
+                  name: "Bolt AI",
                   applicationCategory: "DeveloperApplication",
                   operatingSystem: "Web",
                   description:
                     "AI-powered web application builder that generates complete web apps, dashboards, and interactive tools instantly.",
-                  url: "https://bolt.new",
+                  url: "https://boltai.dev",
                   offers: {
                     "@type": "Offer",
                     price: "0",
@@ -107,17 +107,17 @@ export default function RootLayout({
                 },
                 {
                   "@type": "Organization",
-                  name: "Bolt new",
-                  url: "https://bolt.new",
+                  name: "Bolt AI",
+                  url: "https://boltai.dev",
                   sameAs: [],
                 },
                 {
                   "@type": "WebSite",
-                  name: "Bolt new",
-                  url: "https://bolt.new",
+                  name: "Bolt AI",
+                  url: "https://boltai.dev",
                   potentialAction: {
                     "@type": "SearchAction",
-                    target: "https://bolt.new/?query={search_term_string}",
+                    target: "https://boltai.dev/?query={search_term_string}",
                     "query-input": "required name=search_term_string",
                   },
                 },
