@@ -3,7 +3,7 @@ export function Features() {
     {
       title: "AI-Powered Web App Generation",
       description:
-        "Describe your vision in plain English and watch Bolt new create fully functional web applications instantly. Our AI models understand your requirements and build complete apps.",
+        "Describe your vision in plain English and watch Bolt AI create fully functional web applications instantly. Our AI models understand your requirements and build complete apps.",
     },
     {
       title: "Dashboard & Tool Builder",
@@ -18,7 +18,7 @@ export function Features() {
     {
       title: "No Coding Skills Required",
       description:
-        "Anyone can create professional web applications. Bolt new's user-friendly interface lets you generate complex apps using simple text descriptions.",
+        "Anyone can create professional web applications. Bolt AI's user-friendly interface lets you generate complex apps using simple text descriptions.",
     },
   ]
 
@@ -26,10 +26,10 @@ export function Features() {
     <section id="features" className="py-16 px-4 bg-muted/30">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-3xl font-bold text-center text-foreground mb-4">
-          Why Choose Bolt new for AI-Powered Web Development
+          Why Choose Bolt AI for AI-Powered Web Development
         </h2>
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Bolt new combines artificial intelligence with modern development practices to help anyone
+          Bolt AI combines artificial intelligence with modern development practices to help anyone
           create powerful web applications faster than ever.
         </p>
         <div className="grid md:grid-cols-2 gap-6">
@@ -47,7 +47,7 @@ export function Features() {
             rel="noopener noreferrer"
             className="text-primary font-medium hover:underline"
           >
-            Start Building with Bolt new →
+            Start Building with Bolt AI →
           </a>
         </div>
       </div>
