@@ -42,7 +42,7 @@ export function Features() {
         </div>
         <div className="text-center mt-10">
           <a
-            href="https://bolt.new"
+            href="https://boltai.dev"
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary font-medium hover:underline"
