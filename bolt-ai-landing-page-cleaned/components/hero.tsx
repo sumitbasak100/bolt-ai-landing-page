@@ -8,7 +8,7 @@ export function Hero() {
 
   const handleGenerate = () => {
     const encodedQuery = encodeURIComponent(query.trim())
-    window.open(`https://bolt.new/?query=${encodedQuery}`, "_blank", "noopener,noreferrer")
+    window.open(`https://boltai.dev/?query=${encodedQuery}`, "_blank", "noopener,noreferrer")
   }
 
   return (
