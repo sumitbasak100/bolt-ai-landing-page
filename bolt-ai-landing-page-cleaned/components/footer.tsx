@@ -4,7 +4,7 @@ export function Footer() {
       <div className="max-w-5xl mx-auto">
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
-            <h4 className="font-bold text-foreground mb-4">Bolt new</h4>
+            <h4 className="font-bold text-foreground mb-4">Bolt AI</h4>
             <p className="text-sm text-muted-foreground">
               The fastest way to build web applications with artificial intelligence. No coding skills
               required.
@@ -41,12 +41,12 @@ export function Footer() {
               rel="noopener noreferrer"
               className="inline-block text-sm font-medium text-primary hover:underline"
             >
-              Try Bolt new Free →
+              Try Bolt AI Free →
             </a>
           </div>
         </div>
         <div className="border-t border-border pt-8 text-center text-sm text-muted-foreground">
-          <p>© {new Date().getFullYear()} Bolt new. AI-Powered Web App Builder.</p>
+          <p>© {new Date().getFullYear()} Bolt AI. AI-Powered Web App Builder.</p>
         </div>
       </div>
     </footer>
