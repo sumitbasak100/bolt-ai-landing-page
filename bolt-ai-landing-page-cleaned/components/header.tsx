@@ -8,7 +8,7 @@ export function Header() {
           rel="noopener noreferrer"
           className="text-xl font-bold text-foreground"
         >
-          Bolt new
+          Bolt AI
         </a>
         <ul className="flex items-center gap-6 text-sm">
           <li>
@@ -33,7 +33,7 @@ export function Header() {
               rel="noopener noreferrer"
               className="text-primary font-medium hover:underline"
             >
-              Try Bolt new
+              Try Bolt AI
             </a>
           </li>
         </ul>
