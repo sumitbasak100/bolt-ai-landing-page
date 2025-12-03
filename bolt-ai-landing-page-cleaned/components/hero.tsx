@@ -15,7 +15,7 @@ export function Hero() {
     <section className="min-h-screen flex flex-col justify-center px-6 md:px-12 lg:px-20 bg-gradient-to-b from-background to-muted/20">
       <div className="max-w-3xl mx-auto text-center">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4 leading-tight">
-          Build Amazing Web Apps with Bolt new
+          Build Amazing Web Apps with Bolt AI
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground mb-10 max-w-xl mx-auto">
