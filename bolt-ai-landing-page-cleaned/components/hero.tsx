@@ -22,7 +22,7 @@ export function Hero() {
           Generate complete web applications instantly with AI. No coding experience required.
         </p>
 
-        <div className="mx-auto w-[530px] max-w-full bg-muted/50 rounded-2xl p-4 shadow-lg border border-border/50">
+        <div className="mx-auto max-w-[530px] max-w-full bg-muted/50 rounded-2xl p-4 shadow-lg border border-border/50">
           <textarea
             value={query}
             onChange={(e) => setQuery(e.target.value)}
