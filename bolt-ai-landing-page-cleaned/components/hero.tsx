@@ -12,7 +12,7 @@ export function Hero() {
   }
 
   return (
-    <section className="min-h-screen flex flex-col justify-center px-6 md:px-12 lg:px-20 bg-gradient-to-b from-background to-muted/20">
+    <section className="min-h-screen flex flex-col py-12 px-6 md:py-20 md:justify-center md:px-12 lg:px-20 bg-gradient-to-b from-background to-muted/20">
       <div className="max-w-3xl mx-auto text-center">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4 leading-tight">
           Build Amazing Web Apps with Bolt AI
